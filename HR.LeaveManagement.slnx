@@ -1,1 +1,13 @@
-<Solution />
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/src/API/" />
+  <Folder Name="/src/Core/">
+    <Project Path="HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Infrasturcture/" />
+  <Folder Name="/src/UI/" />
+  <Folder Name="/test/" />
+</Solution>
